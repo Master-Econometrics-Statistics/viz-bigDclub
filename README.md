@@ -1,1 +1,1 @@
-"# Visualization Homework - BigDClub" 
+# Visualization Homework - BigDClub
